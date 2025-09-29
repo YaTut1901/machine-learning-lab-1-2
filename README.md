@@ -71,6 +71,10 @@ The tasks cover the basics of **data preprocessing, regression models, feature s
 
 ## 📊 Datasets  
 
+Before running notebooks, place your dataset files (e.g., .csv) in the `data/` directory.  
+- Example: `data/your_dataset.csv`  
+- The `data/` folder is ignored by Git; only `data/.gitkeep` is tracked.  
+
 Some datasets used:  
 - [California Housing Prices](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)  
 - [Auto MPG](https://archive.ics.uci.edu/ml/datasets/Auto+MPG)  
